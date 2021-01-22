@@ -1,0 +1,11 @@
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp2.1\ClassIntro.deps.json
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp2.1\ClassIntro.runtimeconfig.json
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp2.1\ClassIntro.runtimeconfig.dev.json
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp2.1\ClassIntro.dll
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp2.1\ClassIntro.pdb
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp2.1\ClassIntro.csprojAssemblyReference.cache
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp2.1\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp2.1\ClassIntro.AssemblyInfoInputs.cache
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp2.1\ClassIntro.AssemblyInfo.cs
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp2.1\ClassIntro.dll
+C:\Users\EKD\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp2.1\ClassIntro.pdb

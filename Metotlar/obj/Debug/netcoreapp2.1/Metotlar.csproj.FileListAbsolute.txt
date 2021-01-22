@@ -1,0 +1,11 @@
+C:\Users\EKD\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.deps.json
+C:\Users\EKD\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.runtimeconfig.json
+C:\Users\EKD\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.runtimeconfig.dev.json
+C:\Users\EKD\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.dll
+C:\Users\EKD\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.pdb
+C:\Users\EKD\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.csprojAssemblyReference.cache
+C:\Users\EKD\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\EKD\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\EKD\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.AssemblyInfo.cs
+C:\Users\EKD\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.dll
+C:\Users\EKD\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.pdb
