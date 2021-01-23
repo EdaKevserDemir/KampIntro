@@ -1,0 +1,10 @@
+C:\Users\EKD\source\repos\KampIntro\Collections\bin\Debug\netcoreapp2.1\Collections.deps.json
+C:\Users\EKD\source\repos\KampIntro\Collections\bin\Debug\netcoreapp2.1\Collections.runtimeconfig.json
+C:\Users\EKD\source\repos\KampIntro\Collections\bin\Debug\netcoreapp2.1\Collections.runtimeconfig.dev.json
+C:\Users\EKD\source\repos\KampIntro\Collections\bin\Debug\netcoreapp2.1\Collections.dll
+C:\Users\EKD\source\repos\KampIntro\Collections\bin\Debug\netcoreapp2.1\Collections.pdb
+C:\Users\EKD\source\repos\KampIntro\Collections\obj\Debug\netcoreapp2.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\EKD\source\repos\KampIntro\Collections\obj\Debug\netcoreapp2.1\Collections.AssemblyInfoInputs.cache
+C:\Users\EKD\source\repos\KampIntro\Collections\obj\Debug\netcoreapp2.1\Collections.AssemblyInfo.cs
+C:\Users\EKD\source\repos\KampIntro\Collections\obj\Debug\netcoreapp2.1\Collections.dll
+C:\Users\EKD\source\repos\KampIntro\Collections\obj\Debug\netcoreapp2.1\Collections.pdb

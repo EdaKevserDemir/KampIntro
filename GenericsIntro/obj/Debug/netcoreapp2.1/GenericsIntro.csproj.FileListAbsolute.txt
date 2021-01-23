@@ -1,0 +1,11 @@
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.deps.json
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.runtimeconfig.json
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.dll
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.pdb
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.csprojAssemblyReference.cache
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.dll
+C:\Users\EKD\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.pdb
